@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "mobil_saglik_app",
+    "slug": "snack-3cd7d0f8-1d1c-4723-b0ea-cbed02d9d772",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mesut02.snack3cd7d0f81d1c4723b0eacbed02d9d772"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mesut02.snack3cd7d0f81d1c4723b0eacbed02d9d772"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb81d7cf-2289-48d5-9004-8a242d796e82"
+      }
+    }
+  }
+}
