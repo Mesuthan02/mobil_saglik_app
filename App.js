@@ -16,6 +16,8 @@ export default function App() {
   const [result, setResult] = useState('');
   const [isBMH, setIsBMH] = useState(true);
 
+
+  
   // Vücut yağ oranı hesaplama fonksiyonu
   const calculateBodyFat = () => {
     const waistNum = parseFloat(waist);
